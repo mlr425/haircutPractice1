@@ -1,0 +1,16 @@
+.operation-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.operation-wrapper{
+    /* border: 1px solid black; */
+}
+
+.operation-day{
+    margin:20px;
+    font-size: 1.5rem;
+}
